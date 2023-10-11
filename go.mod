@@ -4,8 +4,8 @@ go 1.18
 
 require (
 	github.com/onsi/gomega v1.27.1
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 )
 
 require (
